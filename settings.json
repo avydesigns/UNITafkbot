@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "UNITCRAFT",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
+    "ip": "unitcraft.falixsrv.me",
     "port": 27586,
-    "version": "",
+    "version": "26.2",
     "try-creative": false
   },
   "position": {
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "Welcome to the Unnofficial UNIT MC Server!",
+        "ALL HAIL AVY!!!",
+        "GLORY TO UNIT!!!"
       ]
     },
     "chat-log": true,
